@@ -1,0 +1,58 @@
+{
+  "_from": "gulp-multi-process@git+https://github.com/EricLesch/gulp-multi-process.git#54602601e3031e655cfcca27b1bc0273119575d8",
+  "_id": "gulp-multi-process@1.2.0",
+  "_inBundle": false,
+  "_integrity": "sha1-AO0uiJwO4culJS1bESpznF0SI20=",
+  "_location": "/gulp-multi-process",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "gulp-multi-process@git+https://github.com/EricLesch/gulp-multi-process.git#54602601e3031e655cfcca27b1bc0273119575d8",
+    "name": "gulp-multi-process",
+    "escapedName": "gulp-multi-process",
+    "rawSpec": "git+https://github.com/EricLesch/gulp-multi-process.git#54602601e3031e655cfcca27b1bc0273119575d8",
+    "saveSpec": "git+https://github.com/EricLesch/gulp-multi-process.git#54602601e3031e655cfcca27b1bc0273119575d8",
+    "fetchSpec": "https://github.com/EricLesch/gulp-multi-process.git",
+    "gitCommittish": "54602601e3031e655cfcca27b1bc0273119575d8"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "git+https://github.com/EricLesch/gulp-multi-process.git#54602601e3031e655cfcca27b1bc0273119575d8",
+  "_spec": "gulp-multi-process@git+https://github.com/EricLesch/gulp-multi-process.git#54602601e3031e655cfcca27b1bc0273119575d8",
+  "_where": "/opt/nodejs/elasticSearchPropagationService",
+  "author": {
+    "name": "Juanfran Alcántara"
+  },
+  "bugs": {
+    "url": "https://github.com/juanfran/gulp-multi-process/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Run gulp tasks in separate cpu processes",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "gulp": "^3.9.0",
+    "mocha": "^2.3.4"
+  },
+  "homepage": "http://github.com/juanfran/gulp-multi-process",
+  "keywords": [
+    "gulpplugin",
+    "speed",
+    "performance",
+    "child-process",
+    "multi-process",
+    "threads"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "gulp-multi-process",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juanfran/gulp-multi-process.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "1.2.0"
+}
